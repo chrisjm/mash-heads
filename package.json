@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-netlify-cms",
-  "description": "Example Gatsby, and Netlify CMS project",
-  "version": "1.1.3",
-  "author": "Robert Cooper",
+  "name": "mash-heads",
+  "description": "Mash Heads San Diego Homebrew Club",
+  "version": "1.0.0",
+  "author": "Chris J Mears <chris.mears@gmail.com>",
   "dependencies": {
     "date-fns": "^1.29.0",
     "gatsby": "^2.0.0",
