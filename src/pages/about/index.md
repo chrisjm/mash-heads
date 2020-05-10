@@ -2,40 +2,27 @@
 templateKey: about-page
 title: Wakanda JavaScript Developer Meetup
 mainImage:
-  image: /img/teemu-paananen-376238-unsplash.jpg
-  imageAlt: Wakanda JavaScript developer presenting at a meetup.
-gallery:
-  - image: /img/neonbrand-509131-unsplash.jpg
-    imageAlt: Wakanda JavaScript developer presenting at a meetup.
-  - image: /img/jakob-dalbjorn-730178-unsplash.jpg
-    imageAlt: Wakanda JavaScript developer presenting at a meetup.
-  - image: /img/annie-spratt-608001-unsplash.jpg
-    imageAlt: Wakanda developers working together at a table.
+  image: /img/mash-heads-group.jpg
+  imageAlt: Mash Heads group collage
+gallery: []
 developerGroups: |-
-  ## Other Wakanda Developer Groups
+  ## Other San Diego Homebrew Clubs
 
-  * [React & React Native Meetup](https://www.google.com)
-  * [Python Meetup](https://www.google.com)
-  * [Google Developer Meetup](https://www.google.com)
-  * [Vue.js Meetup](https://www.google.com)
-  * [Ruby Meetup](https://www.google.com)
+  * [](https://www.google.com)TBD
 organizers:
   title: Group Organizers
-  gallery:
-    - image: /img/organizer-1.jpg
-      imageAlt: Tom Cruise
-      name: Tom Cruise
-    - image: /img/organizer-2.jpg
-      imageAlt: Tom Hanks
-      name: Tom Hanks
+  gallery: []
 seo:
-  browserTitle: About | JavaScript Wakanda
-  description: >-
-    JavaScript Wakanda is a meetup group that holds monthly meetups where
-    JavaScript developers get together for presentations and to meet others in
-    the community.
-  title: About | JS Wakanda
+  browserTitle: About | Mash Heads
+  description: Mash Heads is a small San Diego based homebrew club dedicated to
+    educating our members on the science of homebrewing while focusing on fun
+    and camaraderie.
+  title: About | Mash Heads
 ---
-## Sharing Ideas and Meeting Others
+## About Us
 
-JS Wakanda is a user group run by volunteers. We meet in borrowed spaces, graciously provided by different companies and organisations. Our purpose is to provide a place where our members have a good time talking about programming, sharing their knowledge and meeting other passionate folks. We keep it friendly, inclusive and positive.
+Mash Heads is a small San Diego based homebrew club dedicated to educating our members on the science of homebrewing while focusing on fun and camaraderie.
+
+Our mission is to promote awareness and appreciation of all aspects of the brewing process as well as beer judging through education, evaluation, and open discussion.
+
+We are a proud member of the San Diego Homebrewers Alliance, an umbrella group that was formed by local homebrewers for the purpose of supporting each other as well as to promote homebrewing to the San Diego community.
