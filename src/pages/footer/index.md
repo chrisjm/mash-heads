@@ -1,25 +1,16 @@
 ---
 templateKey: footer
 logoImage:
-  image: /img/js-wakanda.png
-  imageAlt: JavaScript Wakanda
-  tagline: Your friendly local Wakanda meetup
+  image: /img/mash-heads-logo.jpg
+  imageAlt: Mash Heads logos
+  tagline: "Mash Heads: San Diego Homebrew Club"
 socialLinks:
-  - image: /img/meetup.svg
-    imageAlt: Join us on meetup.com
-    label: meetup.com
-    linkURL: 'https://www.meetup.com/'
-  - image: /img/twitter.svg
-    imageAlt: Follow us on Twitter
-    label: twitter.com
-    linkURL: 'https://twitter.com/'
   - image: /img/facebook.svg
     imageAlt: Join our Facebook group
-    label: facebook.com
-    linkURL: 'https://www.facebook.com/'
+    label: Facebook
+    linkURL: http://www.facebook.com/groups/219104834792503/
   - image: /img/email.svg
     imageAlt: Contact us by email
-    label: email us
-    linkURL: 'mailto:contact@js-wakanda.org'
+    label: Email
+    linkURL: mailto:sdmashheads@gmail.com
 ---
-
