@@ -1,9 +1,9 @@
 ---
 templateKey: home-page
 headerImage:
-  image: /img/television.png
-  imageAlt: JavaScript Wakanda
-title: Meet other JavaScript Developers in Wakanda
+  image: /img/mash-heads-logo.jpg
+  imageAlt: Mash Heads San Diego Homebrew Club Logo
+title: "Mash Heads: San Diego Homebrew Club"
 upcomingMeetupHeading: Upcoming Meetup
 noUpcomingMeetupText: Details to be announced.
 mapsNote: Clicking the pin opens Google Maps in a new tab.
@@ -16,13 +16,10 @@ callToActions:
   secondCTA:
     heading: Volunteer to Present
     linkType: external
-    linkURL: 'mailto:contact@js-wakanda.org'
+    linkURL: mailto:sdmashheads@gmail.com
     subHeading: Want to present at an upcoming meetup? Contact us.
 seo:
-  browserTitle: JS Wakanda
-  description: >-
-    JavaScript meetup group in Wakanda where JavaScript developers get together
-    for presentations and to meet others in the community.
-  title: JavaScript Wakanda
+  browserTitle: "Mash Heads: San Diego Homebrew Club"
+  description: Mash Heads San Diego Homebrew Club
+  title: "Mash Heads: San Diego Homebrew Club"
 ---
-
