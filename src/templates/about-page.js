@@ -30,13 +30,14 @@ export const AboutPageTemplate = props => {
           ) : (
             <HTMLContent className="about-description" content={page.html} />
           )}
+          {page.frontmatter.gallery &&
           <ul className="about-gallery  galleryList">
-            {page.frontmatter.gallery.map((galleryImage, index) => (
+            {page.frontmatter.gallery && page.frontmatter.gallery.map((galleryImage, index) => (
               <li key={index} className="galleryList-item">
                 <img src={galleryImage.image} alt={galleryImage.imageAlt} />
               </li>
             ))}
-          </ul>
+          </ul>}
         </section>
       </div>
       <section className="section  developerGroups  about-developerGroups">

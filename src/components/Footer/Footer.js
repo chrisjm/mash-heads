@@ -41,9 +41,12 @@ export const FooterTemplate = ({ data }) => {
           )}
         </div>
         <div className="footer-bottom">
+          <div className="footer-text">
+            Made in San Diego, CA
+          </div>
           <div className="footer-flag">
-            <span role="img" aria-label="Made in Canada">
-              🇨🇦
+            <span role="img" aria-label="Made in USA">
+              🇺🇸
             </span>
           </div>
         </div>

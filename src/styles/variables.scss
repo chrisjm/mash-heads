@@ -6,19 +6,24 @@ $coronation: #ececec;
 $golden-apricot: #e0a458;
 $greenway: #419d78;
 $snowy-mountain: #f2efea;
+$red-800: #9B2C2C;
+$red-700: #C53030;
+$red-600: #E53E3E;
+$orange-400: #F6AD55;
+$black: #1A202C;
 
-$highlight: $golden-apricot;
-$highlight-secondary: $greenway;
+$highlight: $red-800;
+$highlight-secondary: $red-800;
 
-$background-light: $snowy-mountain;
-$background-dark: $sambucus;
-$background-medium: $black-blueberry;
+$background-light: $white;
+$background-dark: $white;
+$background-medium: $white;
 
-$menu-active: $white;
-$menu-inactive: $american-silver;
+$menu-active: $red-600;
+$menu-inactive: $red-800;
 
-$body-light: $coronation;
-$body-dark: $black-blueberry;
+$body-light: $black;
+$body-dark: $black;
 
 $navbar-height: 50px;
 $footer-height: 500px;

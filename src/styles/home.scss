@@ -164,6 +164,7 @@
 
     &--first {
       background-color: $highlight-secondary;
+      color: $white;
 
       @include respond-to("medium") {
         justify-content: flex-end;
